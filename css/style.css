@@ -1,0 +1,50 @@
+body{
+  background-color: #EEEEEE;
+  font-family: Monaco;
+  font-size: 9pt;
+  padding: 2% 12% 0 12%;
+  min-width: 540px;
+}
+
+h1{
+  color: #00adb5;
+}
+
+h3{
+  color: #ff5722;
+}
+
+hr{
+  height: 14px;
+  width: 6%;
+  border-width: 6px 0 0 0;
+  border-style: dotted none none none;
+  border-color: #dddddd;
+}
+
+a:any-link{
+  color: #00adb5;
+}
+
+.dark-top{
+  background-color: #303841;
+  border-radius: 10px 10px 0 0;
+}
+
+.dark-top p{
+  color: #999999;
+}
+
+.dark-top a{
+  color: #a6a6a6;
+}
+
+.dark-bottom{
+  background-color: #303841;
+  border-radius: 0 0 10px 10px;
+}
+
+.dark-bottom h6 {
+  color: #EEEEEE;
+  text-align: center;
+}
