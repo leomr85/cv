@@ -30,6 +30,11 @@ hr{
 
 a:any-link{
   color: #00adb5;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #007980;
 }
 
 .dark-top{
@@ -42,7 +47,11 @@ a:any-link{
 }
 
 .dark-top a{
-  color: #a6a6a6;
+  color: #b3b3b3;
+}
+
+.dark-top a:hover{
+  color: #999999;
 }
 
 .dark-bottom{
