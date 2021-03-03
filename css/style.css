@@ -4,6 +4,7 @@ body{
   font-size: 9pt;
   padding: 2% 12% 0 12%;
   min-width: 540px;
+  text-align:justify;
 }
 
 h1{
@@ -12,6 +13,11 @@ h1{
 
 h3{
   color: #ff5722;
+}
+
+h6{
+  color: #EEEEEE;
+  text-align: center;
 }
 
 hr{
@@ -42,9 +48,4 @@ a:any-link{
 .dark-bottom{
   background-color: #303841;
   border-radius: 0 0 10px 10px;
-}
-
-.dark-bottom h6 {
-  color: #EEEEEE;
-  text-align: center;
 }
